@@ -1,9 +1,6 @@
 ### Hi there 👋
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grovertb" alt="grovertb" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=grovertb&show_icons=true" alt="grovertb" /></p>
-
+<p><img src="https://github-readme-stats.vercel.app/api?username=grovertb&show_icons=true" alt="grovertb" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grovertb" alt="grovertb" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/wakatime?username=groverjtb" alt="grovertb"  />
 <!--
 **grovertb/grovertb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
